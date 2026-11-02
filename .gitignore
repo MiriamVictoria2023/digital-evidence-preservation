@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+backend/evidence.db
+frontend/node_modules/
+frontend/dist/
+storage/evidence/*
+!storage/evidence/.gitkeep
+logs/evidence_log.txt
